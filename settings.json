@@ -1,0 +1,11 @@
+{
+    "Mixer Name": "Unknown",
+    "Mixer IP Address": "127.0.0.1",
+    "Mixer CSCP Port": 12345,
+    "CSCP -> MIDI port": "Reaper Input 1",
+    "MIDI -> CSCP port": "Reaper Output 1",
+    "Mode/Mapping": [
+        "Sonar/Reaper",
+        "korg_sonar_reaper.json"
+    ]
+}
