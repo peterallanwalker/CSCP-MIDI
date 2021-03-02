@@ -20,8 +20,6 @@ This application has been developed and tested using:
 CSCP-MIDI.py is the entry point for the main application.
 The supporting .py files will run with unit tests.
 
-* See Usage.txt for info on using CSCP-MIDI.
-
 
 ### Prerequisites
 Third party Python library dependencies:
@@ -37,7 +35,7 @@ Third party Python library dependencies:
 
 * **[rtmidi](https://pypi.org/project/python-rtmidi/)** - used by mido (install with 'pip install python-rtmidi'.
 
-* **[time](https://www.tutorialspoint.com/python/time_sleep.htm)** - (Good ol' time) used to pause CSCP_connection between connection attempts
+* **[time](https://www.tutorialspoint.com/python/time_sleep.htm)** - used to pause CSCP_connection between connection attempts
 
 
 ### Project files
