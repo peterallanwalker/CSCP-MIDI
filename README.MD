@@ -46,7 +46,7 @@ Third party Python library dependencies:
     and gets validated user input to confirm or edit the config settings. Validates user input (validates IP address, 
     available midi ports etc), returns dictionary of configuration settings.
 
-* **CSCP_UTILS.py** - provides constants for the CSCP protocol as well as functions for calculating and verifying 
+* **CSCP_utils.py** - provides constants for the CSCP protocol as well as functions for calculating and verifying 
     CSCP message checksums.
 
 * **CSCP_connection.py** - provides `Connection` class/object to handle CSCP comms, runs a separate thread receiving and 
