@@ -102,7 +102,7 @@ if the controller is connected when CSCP-MIDI starts up.
         * To request support for other MIDI modes, contact peter.allan.walker@gmail.com
 
 
-* If using DAW software running on the same Windows machine, 3rd party software is required to provide virtual midi ports
+* If using DAW software running on the same PC as this application on Windows, then 3rd party software is required to provide virtual midi ports (to allow midi comms between applications running in Windows)
     * Download [loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html) by Tobias Erichsen. Open loopmidi and
     click the '+' button to add a MIDI port that will be accessible to your DAW and to CSCP-MIDI.
 
