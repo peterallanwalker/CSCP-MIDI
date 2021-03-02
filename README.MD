@@ -114,7 +114,7 @@ if the controller is connected when CSCP-MIDI starts up.
             starts.
             * Also in preferences, select Audio>MIDI-Devices and enable the MIDI I/O created from loopmidi.
             
-* Start CSCP-MIDI using `python cscp-midi.py` or running the .exe. IF it has been run before, you will be presented
+* Start CSCP-MIDI using `python cscp-midi.py` or running the .exe. If it has been run before, you will be presented
 with the last used settings. If you need to change the settings press 'n' and enter the mixer's IP address, CSCP port,
 the MIDI ports you are using and the MIDI mode...
     * **You now have two-way comms between your Calrec mixer and your MIDI device/DAW!**      
