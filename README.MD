@@ -124,9 +124,3 @@ the MIDI ports you are using and the MIDI mode...
 
 **Peter Walker**
 Feedback/requests, email:peter.allan.walker@gmail.com
-
-
-## License
-
-
-
