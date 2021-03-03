@@ -1,6 +1,6 @@
 # CSCP-MIDI
 
-A Python 3.x application...
+A Python 3.x application (Windows .exe also provided) ...
 
 Provides connectivity and two-way comms between devices supporting the CSCP protocol and devices/software supporting the MIDI protocol
 * Provides remote control over Calrec Audio mixers from a multitude of low-cost physical MIDI controllers
