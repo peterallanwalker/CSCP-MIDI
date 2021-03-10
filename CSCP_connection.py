@@ -9,11 +9,6 @@
 # See Readme.txt for info on how to use this app.
 # See Project_Notes.txt for info on the implementation - how the app works.
 
-# TODO - fix jumpy faders - block messages if either end making fader adjsuts?
-# drop x out of y fader messages within buffer when lots.
-# Use UDP????
-# - socket.SOCK_DGRAM  https://realpython.com/python-sockets/
-# write a test app/dummy mixer, poss in C++
 
 import socket
 import threading
