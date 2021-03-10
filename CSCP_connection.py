@@ -170,8 +170,8 @@ class Connection:
 
 if __name__ == '__main__':
 
-    #address = "192.169.1.200"
-    address = "127.0.0.1"  # Localhost for testing with virtual mixer running on this machine
+    address = "192.169.1.200"
+    #address = "127.0.0.1"  # Localhost for testing with virtual mixer running on this machine
     port = 12345
 
     print(20*'#'+' CSCP_connection ' + 20*'#')
