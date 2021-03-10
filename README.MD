@@ -132,5 +132,6 @@ Feedback/requests, email:peter.allan.walker@gmail.com
 
 Note, this software is not currently being maintained by the author. 
 
-This software is to be used at your own liability. 
 This is 3rd party software that is not supported by Calrec, Korg, or Reaper.
+
+This software is to be used at your own liability. Neither the author nor the vendors of the equipment the software has been tested with accept responsibility for use.
