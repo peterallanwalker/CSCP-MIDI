@@ -131,3 +131,6 @@ the MIDI ports you are using and the MIDI mode...
 Feedback/requests, email:peter.allan.walker@gmail.com
 
 Note, this software is not currently being maintained by the author. 
+
+This software is to be used at your own liability. 
+This is 3rd party software that is not supported by Calrec, Korg, or Reaper.
