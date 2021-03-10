@@ -120,7 +120,14 @@ the MIDI ports you are using and the MIDI mode...
     * **You now have control comms between your Calrec mixer and your MIDI device/DAW!**      
 
 
+## TODO / Known Issues
+
+- [ ] Fix two-way control issues seen when using the Reaper DAW. Control in either direction is fine, but two-way control can cause feedback/control jitter. Not sure if this is specfic to Reaper, My CSCP GUI app works fine, might need to implement a similar data model to that to sit between rather than direct translation??
+
+
 ## Author
 
 **Peter Walker**
 Feedback/requests, email:peter.allan.walker@gmail.com
+
+Note, this software is not currently being maintained by the author. 
