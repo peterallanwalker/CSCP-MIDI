@@ -18,7 +18,7 @@ This application has been developed and tested using:
 ## Getting Started
 
 CSCP-MIDI.py is the entry point for the main application.
-The supporting .py files will run with unit tests.
+The supporting .py files will run with unit tests (provided in their `if __name__ == '__main__'`).
 
 
 ### Prerequisites
