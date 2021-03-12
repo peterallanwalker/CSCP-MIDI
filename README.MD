@@ -122,7 +122,7 @@ the MIDI ports you are using and the MIDI mode...
 
 ## TODO / Known Issues
 
-- [ ] Fix two-way control issues seen when using the Reaper DAW. Control in either direction is fine, but two-way control can cause feedback/control jitter. Not sure if this is specfic to Reaper, My CSCP GUI app works fine, might need to implement a similar data model to that to sit between rather than direct translation??
+- [ ] Fix two-way control issues seen when using the Reaper DAW. Control in either direction is fine, but two-way control can cause feedback/control jitter. Not sure if this is specfic to Reaper, My CSCP GUI app works fine, might need to implement a similar data model to that to sit between rather than direct translation?? (for my GUI project I have a mid-point data model, and slow down the reads from the gui, works perfectly).
 
 
 ## Author
